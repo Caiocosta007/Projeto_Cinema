@@ -1,3 +1,16 @@
+@media (max-width: 768px) {
+  nav li {
+    font-size: 0.7rem;
+  }
+
+  nav ul {
+    gap: 1rem; /* menor espaço entre os itens */
+  }
+
+  .header {
+    padding: 0.5rem 1rem;
+  }
+}
 
  * {
       margin: 0;
@@ -24,11 +37,10 @@
     nav ul {
       list-style: none;
       display: flex;
-      gap: 5.5rem;
+      gap: 15vh;
     }
 
     nav li{
-      font-size: 1rem;
     }
 
     nav li {
