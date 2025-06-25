@@ -1,18 +1,4 @@
-@media (max-width: 768px) {
-  nav li {
-    font-size: 0.7rem;
-  }
-
-  nav ul {
-    gap: 1rem; /* menor espaço entre os itens */
-  }
-
-  .header {
-    padding: 0.5rem 1rem;
-  }
-}
-
- * {
+    * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
